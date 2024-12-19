@@ -1,10 +1,10 @@
 # PocketMine-MP-Plugin-Template-Maker
 
-A simple template to help you create PocketMine-MP plugins quickly. This tool will generate a basic structure with the required files for a PocketMine plugin.
+A simple template to help you create [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) plugins quickly. This tool will generate a basic structure with the required files for a P`ocketMine` plugin.
 
 ## 💡 No Compilation? Download Instantly!
 If you're not familiar with compiling or if you just want to skip that step, you can `download` the precompiled version of the tool directly from the [releases page](https://github.com/Jasson44/PocketMine-MP-Plugin-Template/releases/tag/1.0.0).
-Simply download the file, and you’ll be ready to use it without any setup!
+`Simply download the file`, and you’ll be ready to use it without any setup!
 
 ## 🚀 How to use
 
