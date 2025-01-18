@@ -92,7 +92,8 @@ int main()
                     pluginFile << "version: 1.0.0\n";
                     pluginFile << "main: " << cl << "\\Main\n";
                     pluginFile << "api: 5.0.0\n";
-                    pluginFile << "src-namespace-prefix: " << cl << "";
+                    pluginFile << "src-namespace-prefix: " << cl << "\n";
+                    pluginFile << "author: " << author << "";
                     pluginFile.close();
                     cout << "File 'plugin.yml' berhasil dibuat." << endl;
                 }
